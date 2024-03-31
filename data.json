@@ -1,0 +1,22 @@
+ [
+    {
+        "id":1,
+        "name":"Geetha",
+        "age":20
+    },
+    {
+        "id":2,
+        "name":"shinchan",
+        "age":18
+    },
+    {
+        "id":3,
+        "name":"Doremon",
+        "age":25
+    },
+    {
+        "id":4,
+        "name":"Ninja",
+        "age":15
+    }
+]
